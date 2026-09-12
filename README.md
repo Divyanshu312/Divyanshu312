@@ -6,7 +6,6 @@
   <p>
     <img src="https://img.shields.io/badge/New_Delhi-India-58A6FF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Open_to_roles-SDE%20%7C%20ML%20Eng-238636?style=flat-square" alt="Open to roles" />
-    <img src="https://img.shields.io/badge/Relocation-Japan%20%26%20Europe-1F6FEB?style=flat-square" alt="Relocation" />
   </p>
 
   <p>
