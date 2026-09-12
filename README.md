@@ -102,5 +102,5 @@ Ask me about **data pipelines**, **LLM/RAG systems**, or **blockchain apps**.
 
 <p>
   <a href="https://github.com/Divyanshu312"><img src="https://img.shields.io/badge/Follow-Divyanshu312-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-  <a href="mailto:d88757688@gmail.com"><img src="https://img.shields.io/badge/Say_hello-d88757688@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mi.divyanshu4@gmail.com"><img src="https://img.shields.io/badge/Say_hello-mi.divyanshu4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
